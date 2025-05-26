@@ -21,7 +21,7 @@ An interactive Java-based Rubik's Cube simulator and solver that allows you to m
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/Rubix-Cube-Solver.git
+git clone https://github.com/iSaaC2909/Rubix-Cube-Solver.git
 ```
 
 2. Navigate to the project directory:
